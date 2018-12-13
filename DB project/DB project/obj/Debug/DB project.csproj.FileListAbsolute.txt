@@ -1,0 +1,64 @@
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\database.mdf
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\database_log.ldf
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\DB project.exe.config
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\DB project.exe.manifest
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\DB project.application
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\DB project.exe
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\bin\Debug\DB project.pdb
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Add_product.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Add_Salesman.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Add_Supplier.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Admin.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Delete_Product.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Delete_Salesman.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Delete_Supplier.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Form1.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Form2.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Login.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Make_Sale.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Pd_Expiry.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Properties.Resources.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Salesman.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Search_Products.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Update_Product.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Update_Salesman.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.Update_Supplier.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB_project.view_invoice.resources
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB project.csproj.GenerateResource.Cache
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB project.exe.manifest
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB project.application
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB project.exe
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB project.pdb
+C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\obj\Debug\DB project.csprojResolveAssemblyReference.cache
+E:\DB project\DB project\bin\Debug\DB project.exe.config
+E:\DB project\DB project\obj\Debug\DB project.exe
+E:\DB project\DB project\obj\Debug\DB project.pdb
+E:\DB project\DB project\bin\Debug\database.mdf
+E:\DB project\DB project\bin\Debug\database_log.ldf
+E:\DB project\DB project\bin\Debug\DB project.exe.manifest
+E:\DB project\DB project\bin\Debug\DB project.application
+E:\DB project\DB project\bin\Debug\DB project.exe
+E:\DB project\DB project\bin\Debug\DB project.pdb
+E:\DB project\DB project\obj\Debug\DB project.csprojResolveAssemblyReference.cache
+E:\DB project\DB project\obj\Debug\DB_project.Add_product.resources
+E:\DB project\DB project\obj\Debug\DB_project.Add_Salesman.resources
+E:\DB project\DB project\obj\Debug\DB_project.Add_Supplier.resources
+E:\DB project\DB project\obj\Debug\DB_project.Admin.resources
+E:\DB project\DB project\obj\Debug\DB_project.Delete_Product.resources
+E:\DB project\DB project\obj\Debug\DB_project.Delete_Salesman.resources
+E:\DB project\DB project\obj\Debug\DB_project.Delete_Supplier.resources
+E:\DB project\DB project\obj\Debug\DB_project.Form1.resources
+E:\DB project\DB project\obj\Debug\DB_project.Form2.resources
+E:\DB project\DB project\obj\Debug\DB_project.Login.resources
+E:\DB project\DB project\obj\Debug\DB_project.Make_Sale.resources
+E:\DB project\DB project\obj\Debug\DB_project.Pd_Expiry.resources
+E:\DB project\DB project\obj\Debug\DB_project.Properties.Resources.resources
+E:\DB project\DB project\obj\Debug\DB_project.Salesman.resources
+E:\DB project\DB project\obj\Debug\DB_project.Search_Products.resources
+E:\DB project\DB project\obj\Debug\DB_project.Update_Product.resources
+E:\DB project\DB project\obj\Debug\DB_project.Update_Salesman.resources
+E:\DB project\DB project\obj\Debug\DB_project.Update_Supplier.resources
+E:\DB project\DB project\obj\Debug\DB_project.view_invoice.resources
+E:\DB project\DB project\obj\Debug\DB project.csproj.GenerateResource.Cache
+E:\DB project\DB project\obj\Debug\DB project.exe.manifest
+E:\DB project\DB project\obj\Debug\DB project.application
